@@ -1,0 +1,1 @@
+Here, I have used the Movie Reviews dataset from the NLTK corpora. Built a bag-of-words model after removing stopwords and punctuations and then used NaiveBayes Classifier to predict the sentiment of the movie reviews.
