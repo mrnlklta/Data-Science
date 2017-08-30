@@ -1,0 +1,1 @@
+I have used the European Soccer data-set from Kaggle. Used LinearRegression to predict ’overall_rating’ of a player from the input features and evaluated the accuracy using mean_squared_error metrics, which came out to be 2.80. Then used DecisionTreeRegressor on the same and evaluated the accuracy to be 1.47 using mean_squared_error metrics.
